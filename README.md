@@ -1,5 +1,5 @@
 # FRED_economic_models
-### Modelling gross private domestic investment using Federal Reserve Economic Data
+### Modelling Federal Reserve Economic Data
 
 Includes multiple linear regression, univariate (ARIMA) and multivariate (VAR) time-series models using the following datasets:
 
