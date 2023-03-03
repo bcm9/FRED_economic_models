@@ -1,7 +1,7 @@
 # FRED_economic_models
 ### Modelling Federal Reserve Economic Data
 
-![](Figures/raw_plots.png)
+![](Figures/raw_plots_2.png)
 
 Includes regression (OLS, GBM), univariate (ARIMA) and multivariate (VAR) time-series models using the following datasets:
 
