@@ -1,6 +1,8 @@
 # FRED_economic_models
 ### Modelling Federal Reserve Economic Data
 
+![](Figures/raw_plots.png)
+
 Includes regression (OLS, GBM), univariate (ARIMA) and multivariate (VAR) time-series models using the following datasets:
 
 * Gross Private Domestic Investment (GPDI): https://fred.stlouisfed.org/series/GPDI
